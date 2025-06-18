@@ -1,0 +1,686 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "runs",
+            "request": "launch",
+            "mainClass": "runs",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "stud",
+            "request": "launch",
+            "mainClass": "stud",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "Negative",
+            "request": "launch",
+            "mainClass": "Negative",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "Udf",
+            "request": "launch",
+            "mainClass": "Udf",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "NumberConvertor",
+            "request": "launch",
+            "mainClass": "NumberConvertor",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "MagicSquare",
+            "request": "launch",
+            "mainClass": "MagicSquare",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "mult",
+            "request": "launch",
+            "mainClass": "mult",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "symmetric",
+            "request": "launch",
+            "mainClass": "symmetric",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "patterneach",
+            "request": "launch",
+            "mainClass": "patterneach",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "state",
+            "request": "launch",
+            "mainClass": "state",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "javafx/AddTime",
+            "request": "launch",
+            "mainClass": "com.example.javafx/AddTime",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Array",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Array",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ArrayUtils",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ArrayUtils",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/BoxingUnboxingDemo",
+            "request": "launch",
+            "mainClass": "com.example.javafx/BoxingUnboxingDemo",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/CalculatorApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/CalculatorApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/CircleApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/CircleApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/CompanySales",
+            "request": "launch",
+            "mainClass": "com.example.javafx/CompanySales",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/FindLargest",
+            "request": "launch",
+            "mainClass": "com.example.javafx/FindLargest",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/GCDApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/GCDApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example.javafx/GCDApp.src.App",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "GCDApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/GCDApp.src.GCDApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/GCDCalculator",
+            "request": "launch",
+            "mainClass": "com.example.javafx/GCDCalculator",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/HelloWorld",
+            "request": "launch",
+            "mainClass": "com.example.javafx/HelloWorld",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/JavaFX.src.main.java.com.example.javafx.CalculatorApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/JavaFXWelcomeWindow",
+            "request": "launch",
+            "mainClass": "com.example.javafx/JavaFXWelcomeWindow",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/L11Q1",
+            "request": "launch",
+            "mainClass": "com.example.javafx/L11Q1",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ListDemo",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ListDemo",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/LoginApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/LoginApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/MagicSquare",
+            "request": "launch",
+            "mainClass": "com.example.javafx/MagicSquare",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/MatrixOperations",
+            "request": "launch",
+            "mainClass": "com.example.javafx/MatrixOperations",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/MultiplicationTableApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/MultiplicationTableApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Negative",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Negative",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Numb",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Numb",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/NumberConvertor",
+            "request": "launch",
+            "mainClass": "com.example.javafx/NumberConvertor",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Numbers",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Numbers",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Oddn",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Oddn",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/PrintArrays",
+            "request": "launch",
+            "mainClass": "com.example.javafx/PrintArrays",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Rectangle",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Rectangle",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/RectangleArea",
+            "request": "launch",
+            "mainClass": "com.example.javafx/RectangleArea",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Rectanglea",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Rectanglea",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ReplaceWord",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ReplaceWord",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ResumeApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ResumeApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ScrollingTextApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ScrollingTextApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/SetPriority",
+            "request": "launch",
+            "mainClass": "com.example.javafx/SetPriority",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Shape",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Shape",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/SimpleJavaFXApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/SimpleJavaFXApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/SwapElements",
+            "request": "launch",
+            "mainClass": "com.example.javafx/SwapElements",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/SynchronizedBlockExample",
+            "request": "launch",
+            "mainClass": "com.example.javafx/SynchronizedBlockExample",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/SynchronizedDemo",
+            "request": "launch",
+            "mainClass": "com.example.javafx/SynchronizedDemo",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/SynchronizedMethodExample",
+            "request": "launch",
+            "mainClass": "com.example.javafx/SynchronizedMethodExample",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/SynchronizedThreadsDemo",
+            "request": "launch",
+            "mainClass": "com.example.javafx/SynchronizedThreadsDemo",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ThreadDemo1",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ThreadDemo1",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ThreadPriority",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ThreadPriority",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/ThreadStatus",
+            "request": "launch",
+            "mainClass": "com.example.javafx/ThreadStatus",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/Udf",
+            "request": "launch",
+            "mainClass": "com.example.javafx/Udf",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/WelcomeApp",
+            "request": "launch",
+            "mainClass": "com.example.javafx/WelcomeApp",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/WildCardDemo",
+            "request": "launch",
+            "mainClass": "com.example.javafx/WildCardDemo",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/WildcardArguments",
+            "request": "launch",
+            "mainClass": "com.example.javafx/WildcardArguments",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/acc",
+            "request": "launch",
+            "mainClass": "com.example.javafx/acc",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/armstrong",
+            "request": "launch",
+            "mainClass": "com.example.javafx/armstrong",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/auth",
+            "request": "launch",
+            "mainClass": "com.example.javafx/auth",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/b",
+            "request": "launch",
+            "mainClass": "com.example.javafx/b",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/bitwise",
+            "request": "launch",
+            "mainClass": "com.example.javafx/bitwise",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/boxing",
+            "request": "launch",
+            "mainClass": "com.example.javafx/boxing",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/calculator",
+            "request": "launch",
+            "mainClass": "com.example.javafx/calculator",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/cmplx",
+            "request": "launch",
+            "mainClass": "com.example.javafx/cmplx",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/converttype",
+            "request": "launch",
+            "mainClass": "com.example.javafx/converttype",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/count",
+            "request": "launch",
+            "mainClass": "com.example.javafx/count",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/eg1",
+            "request": "launch",
+            "mainClass": "com.example.javafx/eg1",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/isalive",
+            "request": "launch",
+            "mainClass": "com.example.javafx/isalive",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/leapyear",
+            "request": "launch",
+            "mainClass": "com.example.javafx/leapyear",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/lo",
+            "request": "launch",
+            "mainClass": "com.example.javafx/lo",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/magicmatrix",
+            "request": "launch",
+            "mainClass": "com.example.javafx/magicmatrix",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/men",
+            "request": "launch",
+            "mainClass": "com.example.javafx/men",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/menu1",
+            "request": "launch",
+            "mainClass": "com.example.javafx/menu1",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/mult",
+            "request": "launch",
+            "mainClass": "com.example.javafx/mult",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/num",
+            "request": "launch",
+            "mainClass": "com.example.javafx/num",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/number",
+            "request": "launch",
+            "mainClass": "com.example.javafx/number",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/onedim",
+            "request": "launch",
+            "mainClass": "com.example.javafx/onedim",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/pattern",
+            "request": "launch",
+            "mainClass": "com.example.javafx/pattern",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/patterneach",
+            "request": "launch",
+            "mainClass": "com.example.javafx/patterneach",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/prime",
+            "request": "launch",
+            "mainClass": "com.example.javafx/prime",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/principaldiag",
+            "request": "launch",
+            "mainClass": "com.example.javafx/principaldiag",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/result",
+            "request": "launch",
+            "mainClass": "com.example.javafx/result",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/runs",
+            "request": "launch",
+            "mainClass": "com.example.javafx/runs",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/state",
+            "request": "launch",
+            "mainClass": "com.example.javafx/state",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/stud",
+            "request": "launch",
+            "mainClass": "com.example.javafx/stud",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/student",
+            "request": "launch",
+            "mainClass": "com.example.javafx/student",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/sumnondiag",
+            "request": "launch",
+            "mainClass": "com.example.javafx/sumnondiag",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/symmetric",
+            "request": "launch",
+            "mainClass": "com.example.javafx/symmetric",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "javafx/sync",
+            "request": "launch",
+            "mainClass": "com.example.javafx/sync",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.javafx/untitled.src.Main",
+            "projectName": "230953010 OOP_d0e7961e"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorApp(1)",
+            "request": "launch",
+            "mainClass": "com.example.javafx/com.example.javafx.CalculatorApp",
+            "projectName": "JavaFX"
+        }
+    ]
+}
